@@ -4,6 +4,8 @@ A **Streamlit-based analytics application** that analyzes telecom customer behav
 
 This project is designed to demonstrate **time-series data mining**, **DTW-based clustering**, **usage prediction**, and **rule-based + data-driven recommendations** in a single interactive dashboard.
 
+Deployed: https://telecom-plan-analytics.streamlit.app/
+
 ---
 
 ## What the Application Does
